@@ -1,0 +1,14 @@
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe.config
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.exe
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\bin\Debug\InformationSecurity.pdb
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.AssemblyReference.cache
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Forms.CaptchForm.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Forms.GuestForm.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.LoginForm.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Forms.Organizer.OrganizerForm.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Forms.Organizer.RegJuryModerForm.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.Properties.Resources.resources
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.GenerateResource.cache
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.csproj.CoreCompileInputs.cache
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.exe
+E:\преддипломная практика\КОД 1.2 2023-2025 ВАРИАНТ 2\InformationSecurity\InformationSecurity\InformationSecurity\obj\Debug\InformationSecurity.pdb
